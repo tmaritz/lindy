@@ -37,3 +37,7 @@ from 60 to 5000 requests an hour.
 
 The weights are guesses. Adjust them in `score()` against repos you already
 have an opinion about.
+
+## License
+
+MIT. See `LICENSE`.
