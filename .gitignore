@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+lindy.json
+.DS_Store
