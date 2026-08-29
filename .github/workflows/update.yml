@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git config user.name  "lindy-bot"
-          git config user.email "lindy-bot@users.noreply.github.com"
+          git config user.name  "tmaritz"
+          git config user.email "33519371+tmaritz@users.noreply.github.com"
           git add LINDY.md index.html
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh list ($(date -u +%F))" \
