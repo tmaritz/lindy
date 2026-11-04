@@ -2,59 +2,61 @@
 
 Trending GitHub repos, re-sorted by how likely they are to still be maintained in a few years. See the README for how the score works.
 
-_Updated 2026-11-03 13:40 UTC. 49 repos._
+_Updated 2026-11-04 13:48 UTC. 51 repos._
 
 | # | Repo | Score | Stars | Age | Act. mo | Contrib | Sources | Notes |
 |--:|------|------:|------:|----:|:------:|--------:|---------|-------|
 | 1 | [microsoft/pylance-release](https://github.com/microsoft/pylance-release) | **83.0** | 2,164 | 6y | 12 | 28 | hn | 2y+ old; commits almost every month; 28+ contributors; tagged releases |
 | 2 | [ihhub/fheroes2](https://github.com/ihhub/fheroes2) | **83.0** | 3,708 | 7y | 12 | 195 | hn | 2y+ old; commits almost every month; 195+ contributors; tagged releases |
-| 3 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | **83.0** | 78,880 | 13y | 12 | 753 | hn | 2y+ old; commits almost every month; 753+ contributors; tagged releases |
-| 4 | [openssl/openssl](https://github.com/openssl/openssl) | **83.0** | 31,176 | 13y | 12 | 1598 | hn | 2y+ old; commits almost every month; 1598+ contributors; tagged releases |
-| 5 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | **83.0** | 46,594 | 16y | 12 | 637 | hn | 2y+ old; commits almost every month; 637+ contributors; tagged releases |
-| 6 | [php/php-src](https://github.com/php/php-src) | **83.0** | 41,755 | 15y | 12 | 1693 | hn | 2y+ old; commits almost every month; 1693+ contributors; tagged releases |
-| 7 | [microg/GmsCore](https://github.com/microg/GmsCore) | **83.0** | 15,176 | 12y | 12 | 290 | hn | 2y+ old; commits almost every month; 290+ contributors; tagged releases |
-| 8 | [rust-lang/rust](https://github.com/rust-lang/rust) | **83.0** | 121,009 | 16y | 12 | 8949 | hn | 2y+ old; commits almost every month; 8949+ contributors; tagged releases |
-| 9 | [otya128/winevdm](https://github.com/otya128/winevdm) | **78.0** | 3,641 | 11y | 10 | 120 | hn | 2y+ old; commits almost every month; 120+ contributors; tagged releases |
-| 10 | [colinhacks/zod](https://github.com/colinhacks/zod) | **78.0** | 44,251 | 6y | 10 | 592 | hn | 2y+ old; commits almost every month; 592+ contributors; tagged releases |
-| 11 | [openai/codex](https://github.com/openai/codex) | **77.5** | 132,981 | 1y | 12 | 704 | hn | commits almost every month; 704+ contributors; tagged releases |
-| 12 | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | **75.0** | 1,154 | 4y | 12 | 168 | hn | 2y+ old; commits almost every month; 168+ contributors |
-| 13 | [golang/go](https://github.com/golang/go) | **75.0** | 139,545 | 12y | 12 | 3034 | hn | 2y+ old; commits almost every month; 3034+ contributors |
-| 14 | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | **75.0** | 10,096 | 11y | 12 | 6461 | hn | 2y+ old; commits almost every month; 6461+ contributors |
-| 15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | **72.7** | 111,380 | 1y | 12 | 333 | gh:daily, gh:weekly | commits almost every month; 333+ contributors; tagged releases |
-| 16 | [docker/docker-agent](https://github.com/docker/docker-agent) | **72.7** | 4,649 | 1y | 12 | 127 | hn | commits almost every month; 127+ contributors; tagged releases |
-| 17 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | **71.1** | 10,284 | 1y | 12 | 82 | gh:daily, gh:weekly | commits almost every month; 82+ contributors; tagged releases |
-| 18 | [qgis/QGIS-Enhancement-Proposals](https://github.com/qgis/QGIS-Enhancement-Proposals) | **66.2** | 144 | 12y | 9 | 28 | hn | 2y+ old; 28+ contributors; no push in 25d |
-| 19 | [VikOlliver/RepRapMicron](https://github.com/VikOlliver/RepRapMicron) | **62.0** | 321 | 2y | 10 | 2 | hn | 2y+ old; commits almost every month; 1-2 contributors; tagged releases |
-| 20 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | **61.6** | 21,023 | 8mo | 10 | 138 | hn | commits almost every month; 138+ contributors; tagged releases |
-| 21 | [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) | **60.5** | 1,103 | 5y | 7 | 5 | hn | 2y+ old; tagged releases |
+| 3 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | **83.0** | 78,952 | 13y | 12 | 753 | hn | 2y+ old; commits almost every month; 753+ contributors; tagged releases |
+| 4 | [openssl/openssl](https://github.com/openssl/openssl) | **83.0** | 31,181 | 13y | 12 | 1599 | hn | 2y+ old; commits almost every month; 1599+ contributors; tagged releases |
+| 5 | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | **83.0** | 46,630 | 16y | 12 | 637 | hn | 2y+ old; commits almost every month; 637+ contributors; tagged releases |
+| 6 | [php/php-src](https://github.com/php/php-src) | **83.0** | 41,759 | 15y | 12 | 1695 | hn | 2y+ old; commits almost every month; 1695+ contributors; tagged releases |
+| 7 | [microg/GmsCore](https://github.com/microg/GmsCore) | **83.0** | 15,190 | 12y | 12 | 291 | hn | 2y+ old; commits almost every month; 291+ contributors; tagged releases |
+| 8 | [rust-lang/rust](https://github.com/rust-lang/rust) | **83.0** | 121,045 | 16y | 12 | 8952 | hn | 2y+ old; commits almost every month; 8952+ contributors; tagged releases |
+| 9 | [otya128/winevdm](https://github.com/otya128/winevdm) | **78.0** | 3,646 | 11y | 10 | 120 | hn | 2y+ old; commits almost every month; 120+ contributors; tagged releases |
+| 10 | [colinhacks/zod](https://github.com/colinhacks/zod) | **78.0** | 44,259 | 6y | 10 | 592 | hn | 2y+ old; commits almost every month; 592+ contributors; tagged releases |
+| 11 | [openai/codex](https://github.com/openai/codex) | **77.5** | 133,109 | 1y | 12 | 705 | hn | commits almost every month; 705+ contributors; tagged releases |
+| 12 | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | **75.0** | 1,155 | 4y | 12 | 168 | hn | 2y+ old; commits almost every month; 168+ contributors |
+| 13 | [golang/go](https://github.com/golang/go) | **75.0** | 139,562 | 12y | 12 | 3034 | hn | 2y+ old; commits almost every month; 3034+ contributors |
+| 14 | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | **75.0** | 10,104 | 11y | 12 | 6462 | hn | 2y+ old; commits almost every month; 6462+ contributors |
+| 15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | **72.7** | 112,477 | 1y | 12 | 342 | gh:daily, gh:weekly | commits almost every month; 342+ contributors; tagged releases |
+| 16 | [docker/docker-agent](https://github.com/docker/docker-agent) | **72.7** | 4,652 | 1y | 12 | 127 | hn | commits almost every month; 127+ contributors; tagged releases |
+| 17 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | **71.1** | 10,819 | 1y | 12 | 83 | gh:daily, gh:weekly | commits almost every month; 83+ contributors; tagged releases |
+| 18 | [qgis/QGIS-Enhancement-Proposals](https://github.com/qgis/QGIS-Enhancement-Proposals) | **65.8** | 145 | 12y | 9 | 28 | hn | 2y+ old; 28+ contributors; no push in 26d |
+| 19 | [VikOlliver/RepRapMicron](https://github.com/VikOlliver/RepRapMicron) | **62.0** | 322 | 2y | 10 | 2 | hn | 2y+ old; commits almost every month; 1-2 contributors; tagged releases |
+| 20 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | **61.6** | 21,074 | 8mo | 10 | 138 | hn | commits almost every month; 138+ contributors; tagged releases |
+| 21 | [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) | **60.5** | 1,104 | 5y | 7 | 5 | hn | 2y+ old; tagged releases |
 | 22 | [timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) | **54.5** | 422 | 9mo | 10 | 6 | hn | commits almost every month; tagged releases |
-| 23 | [openai/openai-cli](https://github.com/openai/openai-cli) | **54.3** | 1,147 | 6mo | 8 | 23 | hn | 23+ contributors; tagged releases |
-| 24 | [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) | **54.1** | 2,239 | 1y | 8 | 12 | hn | 12+ contributors; no push in 23d |
-| 25 | [microsoft/mxc](https://github.com/microsoft/mxc) | **52.2** | 3,080 | 8mo | 6 | 32 | hn | 32+ contributors; tagged releases |
-| 26 | [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) | **50.7** | 814 | 7mo | 9 | 131 | hn | 131+ contributors |
-| 27 | [da-luce/astroterm](https://github.com/da-luce/astroterm) | **47.7** | 2,500 | 3y | 2 | 13 | hn | 2y+ old; sporadic commits; 13+ contributors; tagged releases; no push in 52d |
-| 28 | [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) | **47.6** | 926 | 1y | 9 | 2 | hn | 1-2 contributors; tagged releases |
-| 29 | [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) | **47.5** | 1,734 | 7mo | 8 | 6 | hn | tagged releases |
-| 30 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | **46.5** | 1,839 | 6mo | 8 | 12 | hn | 12+ contributors |
-| 31 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | **44.5** | 7,342 | 3mo | 5 | 33 | gh:weekly, hn | 33+ contributors; tagged releases |
-| 32 | [android/ndk](https://github.com/android/ndk) | **42.2** | 2,325 | 10y | 1 | 9 | hn | 2y+ old; sporadic commits; tagged releases; no push in 55d |
-| 33 | [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) | **39.8** | 3,936 | 5mo | 4 | 8 | hn | tagged releases |
-| 34 | [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess) | **39.4** | 970 | 6mo | 6 | 5 | hn | tagged releases |
-| 35 | [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim) | **37.9** | 1,025 | 2mo | 3 | 16 | hn | only weeks old; sporadic commits; 16+ contributors; tagged releases |
-| 36 | [ardiri/palmos-lemmings](https://github.com/ardiri/palmos-lemmings) | **36.0** | 181 | 4y | 2 | 3 | hn | 2y+ old; sporadic commits |
-| 37 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | **33.8** | 1,981 | 24d | 2 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases |
-| 38 | [rociiu/talorys](https://github.com/rociiu/talorys) | **33.8** | 1,435 | 24d | 2 | 14 | hn | only weeks old; sporadic commits; 14+ contributors; tagged releases |
-| 39 | [notaroomba/keybytes](https://github.com/notaroomba/keybytes) | **32.9** | 437 | 10mo | 8 | 1 | hn | 1-2 contributors |
-| 40 | [maxilevi/project-hedra](https://github.com/maxilevi/project-hedra) | **31.5** | 191 | 7y | 1 | 2 | hn | 2y+ old; sporadic commits; 1-2 contributors |
-| 41 | [Saffsanity/sill](https://github.com/Saffsanity/sill) | **27.3** | 4,436 | 1mo | 2 | 15 | hn | only weeks old; sporadic commits; 15+ contributors; tagged releases; star spike (~106/day) |
-| 42 | [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) | **26.7** | 2,817 | 1y | 4 | 1 | hn | 1-2 contributors |
-| 43 | [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot) | **26.2** | 757 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
-| 44 | [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | **25.9** | 1,380 | 26d | 2 | 10 | hn | only weeks old; sporadic commits; 10+ contributors |
-| 45 | [cobanov/PS5LM](https://github.com/cobanov/PS5LM) | **24.1** | 799 | 1mo | 2 | 5 | hn | only weeks old; sporadic commits; tagged releases |
-| 46 | [DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger) | **23.6** | 547 | 8mo | 2 | 1 | hn | sporadic commits; 1-2 contributors; tagged releases |
-| 47 | [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | **23.1** | 1,760 | 17d | 1 | 45 | hn | only weeks old; sporadic commits; 45+ contributors |
-| 48 | [zion-sati/NetWasm](https://github.com/zion-sati/NetWasm) | **22.4** | 283 | 2mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
-| 49 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | **21.2** | 4,379 | 2mo | 3 | 3 | hn | only weeks old; sporadic commits; tagged releases; star spike (~61/day) |
+| 23 | [openai/openai-cli](https://github.com/openai/openai-cli) | **54.4** | 1,148 | 6mo | 8 | 23 | hn | 23+ contributors; tagged releases |
+| 24 | [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) | **53.8** | 2,242 | 1y | 8 | 12 | hn | 12+ contributors; no push in 24d |
+| 25 | [microsoft/mxc](https://github.com/microsoft/mxc) | **52.3** | 3,088 | 9mo | 6 | 32 | hn | 32+ contributors; tagged releases |
+| 26 | [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) | **50.7** | 817 | 7mo | 9 | 133 | hn | 133+ contributors |
+| 27 | [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) | **50.0** | 6,027 | 15y | 2 | 25 | hn | 2y+ old; sporadic commits; 25+ contributors |
+| 28 | [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) | **47.6** | 1,027 | 1y | 9 | 2 | hn | 1-2 contributors; tagged releases |
+| 29 | [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) | **47.6** | 1,737 | 7mo | 8 | 6 | hn | tagged releases |
+| 30 | [da-luce/astroterm](https://github.com/da-luce/astroterm) | **47.3** | 2,505 | 3y | 2 | 13 | hn | 2y+ old; sporadic commits; 13+ contributors; tagged releases; no push in 53d |
+| 31 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | **46.5** | 3,889 | 6mo | 8 | 12 | gh:daily, hn | 12+ contributors |
+| 32 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | **44.6** | 7,543 | 3mo | 5 | 33 | gh:weekly, hn | 33+ contributors; tagged releases |
+| 33 | [android/ndk](https://github.com/android/ndk) | **41.8** | 2,324 | 10y | 1 | 9 | hn | 2y+ old; sporadic commits; tagged releases; no push in 56d |
+| 34 | [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) | **39.8** | 3,965 | 5mo | 4 | 8 | hn | tagged releases |
+| 35 | [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess) | **39.4** | 972 | 6mo | 6 | 5 | hn | tagged releases |
+| 36 | [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim) | **37.9** | 1,059 | 2mo | 3 | 16 | hn | only weeks old; sporadic commits; 16+ contributors; tagged releases |
+| 37 | [ardiri/palmos-lemmings](https://github.com/ardiri/palmos-lemmings) | **36.0** | 181 | 4y | 2 | 3 | hn | 2y+ old; sporadic commits |
+| 38 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | **33.9** | 2,062 | 25d | 2 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases |
+| 39 | [rociiu/talorys](https://github.com/rociiu/talorys) | **33.9** | 1,438 | 25d | 2 | 14 | hn | only weeks old; sporadic commits; 14+ contributors; tagged releases |
+| 40 | [notaroomba/keybytes](https://github.com/notaroomba/keybytes) | **32.9** | 438 | 10mo | 8 | 1 | hn | 1-2 contributors |
+| 41 | [maxilevi/project-hedra](https://github.com/maxilevi/project-hedra) | **31.5** | 191 | 7y | 1 | 2 | hn | 2y+ old; sporadic commits; 1-2 contributors |
+| 42 | [Saffsanity/sill](https://github.com/Saffsanity/sill) | **27.4** | 4,472 | 1mo | 2 | 15 | hn | only weeks old; sporadic commits; 15+ contributors; tagged releases; star spike (~104/day) |
+| 43 | [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) | **26.8** | 2,819 | 1y | 4 | 1 | hn | 1-2 contributors |
+| 44 | [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot) | **26.3** | 763 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
+| 45 | [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) | **25.9** | 1,387 | 27d | 2 | 10 | hn | only weeks old; sporadic commits; 10+ contributors |
+| 46 | [cobanov/PS5LM](https://github.com/cobanov/PS5LM) | **24.1** | 805 | 1mo | 2 | 5 | hn | only weeks old; sporadic commits; tagged releases |
+| 47 | [DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger) | **23.6** | 549 | 8mo | 2 | 1 | hn | sporadic commits; 1-2 contributors; tagged releases |
+| 48 | [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | **23.1** | 1,916 | 18d | 1 | 51 | hn | only weeks old; sporadic commits; 51+ contributors |
+| 49 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | **22.4** | 6,080 | 2mo | 3 | 4 | gh:daily, hn | only weeks old; sporadic commits; tagged releases; star spike (~83/day) |
+| 50 | [zion-sati/NetWasm](https://github.com/zion-sati/NetWasm) | **22.4** | 289 | 2mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
+| 51 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | **20.9** | 2,455 | 13d | 1 | 5 | hn | only weeks old; sporadic commits; tagged releases |
 
 ## Descriptions
 
@@ -84,9 +86,10 @@ _Updated 2026-11-03 13:40 UTC. 49 repos._
 - **[0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** (C++): A sub-micrometer 3D motion control plattform.
 - **[microsoft/mxc](https://github.com/microsoft/mxc)** (Rust): Policy-driven, layered isolation and containment
 - **[google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu)** (C++): _no description_
-- **[da-luce/astroterm](https://github.com/da-luce/astroterm)** (C): A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
+- **[postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)** (n/a): Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 - **[ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)** (Rust): Fast, robust, accurate diffing
 - **[tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)** (Python): A compact monospace neo-grotesque font designed for developers (and adventurers).
+- **[da-luce/astroterm](https://github.com/da-luce/astroterm)** (C): A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python): Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** (TypeScript): Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 - **[android/ndk](https://github.com/android/ndk)** (n/a): The Android Native Development Kit
@@ -105,5 +108,6 @@ _Updated 2026-11-03 13:40 UTC. 49 repos._
 - **[cobanov/PS5LM](https://github.com/cobanov/PS5LM)** (C++): llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8
 - **[DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger)** (Python): It won't fix your bug. It'll fix you. The debugger that hands the question back instead of the answer.
 - **[herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)** (Rust): herdr desktop app
-- **[zion-sati/NetWasm](https://github.com/zion-sati/NetWasm)** (C#): Compile C# and .NET CIL to small standalone Wasm with WASI (AOT with built-in Runtime and Precise GC)
 - **[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** (C#): _no description_
+- **[zion-sati/NetWasm](https://github.com/zion-sati/NetWasm)** (C#): Compile C# and .NET CIL to small standalone Wasm with WASI (AOT with built-in Runtime and Precise GC)
+- **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** (C): Apple's open-source XNU kernel on Android phones: its own loader and drivers, Metal on the Adreno. Runs from RAM; a reboot gives the phone back to Android.
