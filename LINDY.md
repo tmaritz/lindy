@@ -2,57 +2,59 @@
 
 Trending GitHub repos, re-sorted by how likely they are to still be maintained in a few years. See the README for how the score works.
 
-_Updated 2026-11-23 17:23 UTC. 44 repos._
+_Updated 2026-11-24 17:01 UTC. 45 repos._
 
 | # | Repo | Score | Stars | Age | Act. mo | Contrib | Sources | Notes |
 |--:|------|------:|------:|----:|:------:|--------:|---------|-------|
-| 1 | [openssl/openssl](https://github.com/openssl/openssl) | **83.0** | 31,516 | 13y | 12 | 1625 | hn | 2y+ old; commits almost every month; 1625+ contributors; tagged releases |
-| 2 | [jquery/jquery](https://github.com/jquery/jquery) | **83.0** | 60,207 | 17y | 12 | 349 | hn | 2y+ old; commits almost every month; 349+ contributors; tagged releases |
-| 3 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | **83.0** | 16,170 | 4y | 12 | 920 | hn | 2y+ old; commits almost every month; 920+ contributors; tagged releases |
-| 4 | [rust-lang/rust](https://github.com/rust-lang/rust) | **83.0** | 122,412 | 16y | 12 | 9075 | hn | 2y+ old; commits almost every month; 9075+ contributors; tagged releases |
-| 5 | [Unleash/unleash](https://github.com/Unleash/unleash) | **83.0** | 14,337 | 12y | 12 | 264 | hn | 2y+ old; commits almost every month; 264+ contributors; tagged releases |
-| 6 | [rivet-dev/rivet](https://github.com/rivet-dev/rivet) | **83.0** | 6,976 | 3y | 12 | 34 | hn | 2y+ old; commits almost every month; 34+ contributors; tagged releases |
-| 7 | [microsoft/pylance-release](https://github.com/microsoft/pylance-release) | **83.0** | 2,171 | 6y | 12 | 29 | hn | 2y+ old; commits almost every month; 29+ contributors; tagged releases |
-| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | **79.9** | 156,801 | 1y | 12 | 59 | hn | commits almost every month; 59+ contributors; tagged releases |
-| 9 | [dmunozv04/isponsorblocktv](https://github.com/dmunozv04/isponsorblocktv) | **78.0** | 7,319 | 4y | 10 | 37 | hn | 2y+ old; commits almost every month; 37+ contributors; tagged releases |
-| 10 | [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) | **76.0** | 1,975 | 3y | 10 | 9 | hn | 2y+ old; commits almost every month; tagged releases |
-| 11 | [openjdk/jdk](https://github.com/openjdk/jdk) | **75.0** | 23,567 | 8y | 12 | 2203 | hn | 2y+ old; commits almost every month; 2203+ contributors |
-| 12 | [otya128/winevdm](https://github.com/otya128/winevdm) | **72.5** | 3,669 | 11y | 9 | 120 | hn | 2y+ old; 120+ contributors; tagged releases; no push in 30d |
-| 13 | [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) | **69.9** | 1,661 | 11mo | 12 | 26 | hn | commits almost every month; 26+ contributors; tagged releases |
-| 14 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | **68.0** | 27,827 | 2y | 6 | 110 | hn | 2y+ old; 110+ contributors; tagged releases |
-| 15 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | **65.9** | 73,275 | 10mo | 11 | 181 | gh:daily, gh:weekly | commits almost every month; 181+ contributors; tagged releases |
-| 16 | [torvalds/linux](https://github.com/torvalds/linux) | **63.0** | 256,525 | 15y | 12 | — | hn | 2y+ old; commits almost every month |
-| 17 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | **58.7** | 12,182 | 10mo | 8 | 19 | gh:daily, gh:weekly | 19+ contributors; tagged releases |
-| 18 | [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) | **54.8** | 1,536 | 1y | 10 | 4 | hn | commits almost every month; tagged releases |
-| 19 | [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) | **52.5** | 6,030 | 15y | 3 | 25 | hn | 2y+ old; sporadic commits; 25+ contributors |
-| 20 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | **47.2** | 14,597 | 6mo | 8 | 20 | hn | 20+ contributors |
-| 21 | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | **46.9** | 25,433 | 8mo | 9 | 4 | hn | tagged releases |
-| 22 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | **41.8** | 1,251 | 3mo | 4 | 77 | hn | 77+ contributors; tagged releases |
-| 23 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | **41.2** | 10,666 | 3mo | 4 | 15 | hn | 15+ contributors; tagged releases |
-| 24 | [da-luce/astroterm](https://github.com/da-luce/astroterm) | **40.7** | 2,560 | 3y | 2 | 13 | hn | 2y+ old; sporadic commits; 13+ contributors; tagged releases; no push in 73d |
-| 25 | [Parcha-ai/agentrun](https://github.com/Parcha-ai/agentrun) | **37.6** | 1,258 | 2mo | 3 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases |
-| 26 | [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) | **36.0** | 2,657 | 2mo | 2 | 10 | hn | only weeks old; sporadic commits; 10+ contributors; tagged releases |
-| 27 | [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) | **35.3** | 1,055 | 4mo | 5 | 5 | hn | tagged releases |
-| 28 | [ZigaoWang/zigzag](https://github.com/ZigaoWang/zigzag) | **34.0** | 359 | 29d | 2 | 15 | hn | only weeks old; sporadic commits; 15+ contributors; tagged releases |
-| 29 | [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot) | **33.4** | 792 | 1mo | 3 | 8 | hn | only weeks old; sporadic commits; tagged releases |
-| 30 | [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant) | **29.8** | 685 | 22d | 2 | 8 | hn | only weeks old; sporadic commits; tagged releases |
-| 31 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | **28.6** | 2,964 | 2d | 1 | 9 | hn | only weeks old; sporadic commits; tagged releases |
-| 32 | [guregodevo/memdoor](https://github.com/guregodevo/memdoor) | **26.6** | 418 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
-| 33 | [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) | **26.5** | 376 | 4y | 3 | 7 | hn | 2y+ old; sporadic commits; no push in 186d |
-| 34 | [OmniJev/Flide](https://github.com/OmniJev/Flide) | **26.0** | 560 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
-| 35 | [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) | **23.9** | 1,407 | 25d | 2 | 5 | hn | only weeks old; sporadic commits; tagged releases |
-| 36 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | **23.0** | 3,053 | 12d | 1 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases; star spike (~254/day) |
-| 37 | [DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger) | **22.7** | 562 | 9mo | 2 | 1 | hn | sporadic commits; 1-2 contributors; tagged releases; no push in 26d |
-| 38 | [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) | **22.5** | 630 | 1mo | 2 | 8 | hn | only weeks old; sporadic commits |
-| 39 | [aaitor/skill-video-studio](https://github.com/aaitor/skill-video-studio) | **22.5** | 407 | 2mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
-| 40 | [lonewolf-im/lonewolf](https://github.com/lonewolf-im/lonewolf) | **21.8** | 124 | 2mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
-| 41 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | **21.8** | 1,693 | 24d | 2 | 4 | hn | only weeks old; sporadic commits; tagged releases |
-| 42 | [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) | **21.4** | 1,547 | 2mo | 2 | 3 | hn | only weeks old; sporadic commits; tagged releases |
-| 43 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | **20.9** | 2,803 | 13d | 1 | 5 | hn | only weeks old; sporadic commits; tagged releases |
-| 44 | [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | **20.2** | 3,385 | 1mo | 2 | 110 | hn | only weeks old; sporadic commits; 110+ contributors; star spike (~91/day) |
+| 1 | [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) | **83.0** | 7,605 | 9y | 12 | 57 | hn | 2y+ old; commits almost every month; 57+ contributors; tagged releases |
+| 2 | [openssl/openssl](https://github.com/openssl/openssl) | **83.0** | 31,524 | 13y | 12 | 1627 | hn | 2y+ old; commits almost every month; 1627+ contributors; tagged releases |
+| 3 | [jquery/jquery](https://github.com/jquery/jquery) | **83.0** | 60,117 | 17y | 12 | 349 | hn | 2y+ old; commits almost every month; 349+ contributors; tagged releases |
+| 4 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | **83.0** | 16,185 | 4y | 12 | 920 | hn | 2y+ old; commits almost every month; 920+ contributors; tagged releases |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | **83.0** | 122,309 | 16y | 12 | 9075 | hn | 2y+ old; commits almost every month; 9075+ contributors; tagged releases |
+| 6 | [Unleash/unleash](https://github.com/Unleash/unleash) | **83.0** | 14,336 | 12y | 12 | 264 | hn | 2y+ old; commits almost every month; 264+ contributors; tagged releases |
+| 7 | [rivet-dev/rivet](https://github.com/rivet-dev/rivet) | **83.0** | 6,985 | 3y | 12 | 34 | hn | 2y+ old; commits almost every month; 34+ contributors; tagged releases |
+| 8 | [microsoft/pylance-release](https://github.com/microsoft/pylance-release) | **83.0** | 2,171 | 6y | 12 | 29 | hn | 2y+ old; commits almost every month; 29+ contributors; tagged releases |
+| 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | **79.9** | 156,928 | 1y | 12 | 59 | hn | commits almost every month; 59+ contributors; tagged releases |
+| 10 | [dmunozv04/isponsorblocktv](https://github.com/dmunozv04/isponsorblocktv) | **78.0** | 7,328 | 4y | 10 | 37 | hn | 2y+ old; commits almost every month; 37+ contributors; tagged releases |
+| 11 | [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) | **76.0** | 1,980 | 3y | 10 | 9 | hn | 2y+ old; commits almost every month; tagged releases |
+| 12 | [openjdk/jdk](https://github.com/openjdk/jdk) | **75.0** | 23,570 | 8y | 12 | 2204 | hn | 2y+ old; commits almost every month; 2204+ contributors |
+| 13 | [otya128/winevdm](https://github.com/otya128/winevdm) | **72.2** | 3,672 | 11y | 9 | 120 | hn | 2y+ old; 120+ contributors; tagged releases; no push in 31d |
+| 14 | [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) | **70.0** | 1,720 | 11mo | 12 | 26 | hn | commits almost every month; 26+ contributors; tagged releases |
+| 15 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | **68.0** | 27,882 | 2y | 6 | 110 | hn | 2y+ old; 110+ contributors; tagged releases |
+| 16 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | **65.9** | 73,979 | 10mo | 11 | 181 | gh:daily, gh:weekly | commits almost every month; 181+ contributors; tagged releases |
+| 17 | [torvalds/linux](https://github.com/torvalds/linux) | **63.0** | 256,515 | 15y | 12 | — | hn | 2y+ old; commits almost every month |
+| 18 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | **58.7** | 12,560 | 10mo | 8 | 21 | gh:daily, gh:weekly | 21+ contributors; tagged releases |
+| 19 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | **55.2** | 14,770 | 7mo | 8 | 21 | hn | 21+ contributors; tagged releases |
+| 20 | [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff) | **54.8** | 1,540 | 1y | 10 | 4 | hn | commits almost every month; tagged releases |
+| 21 | [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) | **52.5** | 6,030 | 15y | 3 | 25 | hn | 2y+ old; sporadic commits; 25+ contributors |
+| 22 | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | **46.9** | 25,809 | 8mo | 9 | 4 | hn | tagged releases |
+| 23 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | **41.8** | 1,254 | 3mo | 4 | 78 | hn | 78+ contributors; tagged releases |
+| 24 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | **41.2** | 10,761 | 3mo | 4 | 15 | hn | 15+ contributors; tagged releases |
+| 25 | [da-luce/astroterm](https://github.com/da-luce/astroterm) | **40.3** | 2,561 | 3y | 2 | 13 | hn | 2y+ old; sporadic commits; 13+ contributors; tagged releases; no push in 74d |
+| 26 | [Parcha-ai/agentrun](https://github.com/Parcha-ai/agentrun) | **37.6** | 1,262 | 2mo | 3 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases |
+| 27 | [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) | **36.1** | 2,669 | 3mo | 2 | 10 | hn | only weeks old; sporadic commits; 10+ contributors; tagged releases |
+| 28 | [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) | **35.3** | 1,059 | 4mo | 5 | 5 | hn | tagged releases |
+| 29 | [ZigaoWang/zigzag](https://github.com/ZigaoWang/zigzag) | **34.0** | 368 | 1mo | 2 | 17 | hn | only weeks old; sporadic commits; 17+ contributors; tagged releases |
+| 30 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | **31.0** | 2,867 | 14d | 1 | 14 | hn | only weeks old; sporadic commits; 14+ contributors; tagged releases |
+| 31 | [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant) | **29.8** | 709 | 23d | 2 | 8 | hn | only weeks old; sporadic commits; tagged releases |
+| 32 | [zed-industries/gpui](https://github.com/zed-industries/gpui) | **29.5** | 1,406 | 4y | 1 | 1 | hn | 2y+ old; sporadic commits; 1-2 contributors |
+| 33 | [anthropics/formal-math](https://github.com/anthropics/formal-math) | **27.7** | 891 | 3mo | 4 | 7 | hn |  |
+| 34 | [guregodevo/memdoor](https://github.com/guregodevo/memdoor) | **26.7** | 420 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
+| 35 | [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) | **26.5** | 378 | 4y | 3 | 7 | hn | 2y+ old; sporadic commits; no push in 187d |
+| 36 | [OmniJev/Flide](https://github.com/OmniJev/Flide) | **26.1** | 570 | 1mo | 2 | 6 | hn | only weeks old; sporadic commits; tagged releases |
+| 37 | [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) | **23.9** | 1,409 | 26d | 2 | 5 | hn | only weeks old; sporadic commits; tagged releases |
+| 38 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | **22.8** | 3,170 | 13d | 1 | 12 | hn | only weeks old; sporadic commits; 12+ contributors; tagged releases; star spike (~244/day) |
+| 39 | [aaitor/skill-video-studio](https://github.com/aaitor/skill-video-studio) | **22.6** | 408 | 3mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
+| 40 | [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) | **22.5** | 634 | 1mo | 2 | 8 | hn | only weeks old; sporadic commits |
+| 41 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | **21.9** | 1,695 | 25d | 2 | 4 | hn | only weeks old; sporadic commits; tagged releases |
+| 42 | [lonewolf-im/lonewolf](https://github.com/lonewolf-im/lonewolf) | **21.8** | 125 | 2mo | 3 | 2 | hn | only weeks old; sporadic commits; 1-2 contributors; tagged releases |
+| 43 | [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) | **21.4** | 1,551 | 2mo | 2 | 3 | hn | only weeks old; sporadic commits; tagged releases |
+| 44 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | **20.4** | 3,526 | 3d | 1 | 11 | hn | only weeks old; sporadic commits; 11+ contributors; tagged releases; star spike (~1175/day) |
+| 45 | [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) | **20.3** | 3,433 | 1mo | 2 | 124 | hn | only weeks old; sporadic commits; 124+ contributors; star spike (~90/day) |
 
 ## Descriptions
 
+- **[glushchenko/fsnotes](https://github.com/glushchenko/fsnotes)** (Swift): Fast Markdown note-taking app for Mac and iPhone
 - **[openssl/openssl](https://github.com/openssl/openssl)** (C): General purpose TLS and crypto library
 - **[jquery/jquery](https://github.com/jquery/jquery)** (JavaScript): jQuery JavaScript Library
 - **[ggml-org/ggml](https://github.com/ggml-org/ggml)** (C++): Tensor library for machine learning
@@ -70,9 +72,9 @@ _Updated 2026-11-23 17:23 UTC. 44 repos._
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python): AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - **[torvalds/linux](https://github.com/torvalds/linux)** (C): Linux kernel source tree
 - **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** (TypeScript): A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python): Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - **[ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)** (Rust): Fast, robust, accurate diffing
 - **[postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)** (n/a): Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
-- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python): Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - **[GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** (n/a): Keep your coding agent up to date with the latest web best practices
 - **[dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)** (Go): NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 - **[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)** (C#): _no description_
@@ -81,19 +83,19 @@ _Updated 2026-11-23 17:23 UTC. 44 repos._
 - **[ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)** (C++): Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Lua, C & C++. Twice as good as GPUI
 - **[microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac)** (Swift): Process Explorer for MacOS
 - **[ZigaoWang/zigzag](https://github.com/ZigaoWang/zigzag)** (Swift): Feels great. Weighs nothing. The lightweight browser for Mac.
-- **[KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)** (Rust): Your local AI copilot for documents
+- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** (Go): One self-hosted app for your shows, movies and music.
 - **[ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)** (Python): A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
-- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** (Rust): Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- **[zed-industries/gpui](https://github.com/zed-industries/gpui)** (n/a): A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.
+- **[anthropics/formal-math](https://github.com/anthropics/formal-math)** (Lean): _no description_
 - **[guregodevo/memdoor](https://github.com/guregodevo/memdoor)** (Go): Open Coding agent. Shift + Tab Go Team Mode: a team of small models, frontier results.
 - **[PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report)** (n/a): Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - **[OmniJev/Flide](https://github.com/OmniJev/Flide)** (Python): 🔥🔥 The extremely fast inference engine for decision model
 - **[synchopate/llama-modchip](https://github.com/synchopate/llama-modchip)** (Python): Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0.
 - **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** (TypeScript): Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.
-- **[DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger)** (Python): It won't fix your bug. It'll fix you. The debugger that hands the question back instead of the answer.
-- **[gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)** (Rust): _no description_
 - **[aaitor/skill-video-studio](https://github.com/aaitor/skill-video-studio)** (HTML): Claude Code skill for product videos: real browser capture, branded composition, and local mastering.
-- **[lonewolf-im/lonewolf](https://github.com/lonewolf-im/lonewolf)** (Rust): XMPP with teeth 🐺
+- **[gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)** (Rust): _no description_
 - **[kevinraymond/florilegium](https://github.com/kevinraymond/florilegium)** (TeX): Procedurally generated Delft-blue page margins for LuaLaTeX, with plants, visitors, shells and Gothic tracery sampled from genomes, and a TikZ library that draws them in pure TikZ under pdfLaTeX.
+- **[lonewolf-im/lonewolf](https://github.com/lonewolf-im/lonewolf)** (Rust): XMPP with teeth 🐺
 - **[saragordic/window-sweaters](https://github.com/saragordic/window-sweaters)** (C): A macOS menu-bar app that dresses your windows in knitted borders.
-- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** (Go): One self-hosted app for your shows, movies and music.
+- **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** (Rust): Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 - **[herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)** (Rust): herdr desktop app
